@@ -17,17 +17,6 @@
 ## 🚀 Meus Primeiros Passos
 - [Projeto 1: Decodificador](https://github.com/Brnddpaula/decodificador) - Desafio do Programa ONE.
 
-## 🛠️ Minha Jornada Profissional
-- **Assistente Contábil** - Michelc Contabilidade (Dez 2023 – Atual)
-- **Caixa** - Cresol União – Cooperativa de Crédito (Jan 2021 – Set 2023)
-- **Assistente de Vendas** - Huner TI Colaborativa (Mai 2019 – Jan 2021)
-
-## 🎓 Certificações e Cursos
-- **Oracle Next Education (ONE)** - Especialização em Back-End (Mai 2024 – Jul 2024)
-- **Santander Coders** - Back-End (Início: 05/06/2024)
-- **Experiência do Cliente** - FGV (Set 2023 – Nov 2023)
-- **Competências Essenciais no Atendimento de Suporte Técnico** - Núcleo da Tecnologia e Informação (Ago 2019)
-
 ## 📬 Vamos Conectar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brnd-d-paula/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brnddpaula)
